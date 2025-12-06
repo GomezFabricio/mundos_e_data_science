@@ -1,0 +1,73 @@
+# context.md — Estado general del estudio en la Diplomatura Mundos_E de Data Science
+
+## Situación inicial
+El usuario se inscribió en la Diplomatura de Data Science de Mundos_E, pero solo pudo asistir de manera completa a dos clases.  
+El resto fueron vistas de forma parcial o directamente no vistas.
+
+El objetivo es ponerse al día desde la Clase 1 hasta la Clase 6 sin mirar clases de 6 horas.
+
+---
+
+## Contenidos oficiales cubiertos hasta la fecha (primer bloque de la diplomatura)
+### CLASE 1 — Introducción a la Ciencia de Datos
+- Datos, información, conocimiento
+- Ciclo de vida de los datos
+- Ciencia de datos como disciplina
+- Gobernanza
+- Roles del proyecto
+
+### CLASE 2 — Programación para Ciencia de Datos I (R básico)
+- Objetos: vectores, matrices, data frames
+- Funciones
+- Estructuras de control
+
+### CLASE 3 — Manipulación de Datos en R
+- Importación/exportación
+- Fechas (Date, POSIXct, POSIXlt)
+- Transformación de datos
+- Limpieza y ordenamiento
+
+### CLASE 4 — Análisis de Datos I
+- Estadística descriptiva
+- Población vs muestra
+- Variables aleatorias
+- Distribuciones de probabilidad
+
+### CLASE 5 — Análisis de Datos II
+- Contrastes de hipótesis
+- Test para media y varianza
+- p-valor, error tipo I y II
+
+### CLASE 6 — Correlación y Causalidad
+- Correlación paramétrica y no paramétrica
+- Pruebas de hipótesis de correlación
+- Diferencia entre correlación y causalidad
+
+---
+
+## Objetivo académico inmediato
+1. Revisar, resumir y comprender completamente las clases 1 a 6.  
+2. Realizar ejercicios prácticos para consolidar los temas.  
+3. Dejar listo el terreno conceptual para las clases de:
+   - Visualización  
+   - SQL  
+   - Regresión lineal  
+   - ML (clasificación, clustering, regresión)
+
+---
+
+## Forma en que el asistente debe trabajar
+1. Leer y analizar los archivos del repositorio por clase.  
+2. Identificar los contenidos clave de cada archivo.  
+3. Producir:
+   - Resúmenes por clase  
+   - Síntesis global  
+   - Ejercicios  
+   - Explicaciones aplicadas en R  
+   - Preguntas tipo examen  
+4. Utilizar `progreso.md` para saber qué parte del proceso está completa.
+
+---
+
+## Resultado deseado
+Tener un “camino de estudio” optimizado que permita al usuario ponerse al día sin ver horas de clase, dominando los fundamentos de Data Science de forma práctica, sólida y progresiva.

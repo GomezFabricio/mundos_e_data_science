@@ -1,0 +1,57 @@
+# progreso.md — Seguimiento del avance del estudio
+
+Este archivo se actualiza manualmente por el usuario después de cada sesión de estudio.
+
+---
+
+## Estado actual
+(Escribir aquí el estado real; ejemplo inicial)
+
+- Iniciado proceso de organización del repositorio.
+- Pendiente: resumen general de las clases 1 a 6.
+
+---
+
+## Avance por clase
+
+### CLASE 1 — Introducción a la Ciencia de Datos
+- [ ] Archivos revisados
+- [ ] Resumen generado
+- [ ] Ejercicios completados
+- [ ] Comprensión satisfactoria
+
+### CLASE 2 — Programación para Ciencia de Datos I (R básico)
+- [ ] Archivos revisados
+- [ ] Resumen generado
+- [ ] Ejercicios completados
+- [ ] Comprensión satisfactoria
+
+### CLASE 3 — Manipulación de Datos en R
+- [ ] Archivos revisados
+- [ ] Resumen generado
+- [ ] Prácticas en R realizadas
+
+### CLASE 4 — Análisis de Datos I
+- [ ] Archivos revisados
+- [ ] Resumen generado
+- [ ] Ejercicios completados
+
+### CLASE 5 — Análisis de Datos II
+- [ ] Archivos revisados
+- [ ] Resumen generado
+- [ ] Tests estadísticos aplicados en R
+
+### CLASE 6 — Correlación y Causalidad
+- [ ] Archivos revisados
+- [ ] Resumen generado
+- [ ] Ejercicios completados
+
+---
+
+## Notas adicionales
+(Agregar dudas, pendientes, dificultades, etc.)
+
+---
+
+## Próxima acción recomendada
+(La IA completará esto automáticamente según el progreso.)
