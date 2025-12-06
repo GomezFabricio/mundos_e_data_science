@@ -1,0 +1,13 @@
+Te propongo las siguientes actividades como práctica de los contenidos vistos a lo largo de esta semana, en el cual estuvimos conociendo las funciones más relevantes de los paquetes del ecosistema tidyverse como readr, readxl, tidyr, forcats y lubridate.  
+
+Antes de iniciar: 
+
+Abre RStudio 
+Crea un script incorporando: 
+En las primeras líneas el borrado completo del entorno. 
+
+Configura el Directorio de trabajo 
+
+Escribe el código necesario para resolver cada punto planteado. 
+
+Al finalizar guárdalo con el nombre E03_ActividadNiños 

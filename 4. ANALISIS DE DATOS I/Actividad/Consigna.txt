@@ -1,0 +1,7 @@
+Las instituciones financieras como cualquier empresa dependen de sus clientes. Por lo que, deben generar la mejor atención y generar confianza, de no hacerlo las personas preferirán otros bancos. Así, el banco debe mantener a los clientes y motivar al público a unirse. 
+
+En este trabajo se realizará un análisis descriptivo de un banco con el objetivo de analizar la organización y los procesos que se llevan a cabo. Este análisis servirá para toma de decisiones y de estrategias dentro de la empresa. 
+
+Un banco requiere mejorar los tiempos de atención al cliente en ventanilla, para ello ha recolectado esta información anónimamente para cada cajero y transacción realizada. 
+
+Sigue las indicaciones del archivo que encontrarás a continuación: 

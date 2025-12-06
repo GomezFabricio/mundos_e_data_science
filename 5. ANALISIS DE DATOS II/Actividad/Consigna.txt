@@ -1,0 +1,7 @@
+1) Suponga que un fabricante de lámparas led afirma que la vida útil promedio de una lámpara led es de 10000 horas. En una muestra de 30 lámparas led se descubrió que solo duran, 9900 horas en promedio. Suponga que la desviación estándar de la población es de 120 horas. Con un nivel de significancia de 0.05.  ¿Se puede rechazar la afirmación del fabricante?  
+
+2) Una fábrica de cerveza artesanal afirma que el volumen de producción es mayor a 1000 litros. En una muestra de 3 producciones, se descubrió que la producción es de 992 litros en promedio. Suponiendo que la desviación estándar es de 15. ¿Con un nivel de significancia de 0.1, podemos rechazar la afirmación del fabricante?  
+
+3) Realiza una estimación por intervalo de la media poblacional de la variable edad del dataset mydata.csv con el que hemos venido trabajando.  
+
+4) Supongamos que la altura de los pinos es una variable aleatoria con media y varianza desconocida. Se registra la altura de 5 pinos y los resultados son: 0.9144,  1.5240, 0.6096, 0.4572, 1.0668 metros. Calcular los valores estimados de µ y σ2 de la población de pinos a partir de la muestra.

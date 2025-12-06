@@ -1,0 +1,225 @@
+Te propongo realizar las siguientes actividades para que te familiarices con el entorno de  RStudio y hagan su primer contacto con el programa R. Los ejercicios propuestos son simples y hasta puede ser que los encuentres sin-sentido, pero son la excusa perfecta para comprender su funcionamiento del entorno R. 
+
+
+$numero.animales 
+
+[1] 6
+
+
+Ejercicio 1- Usando R como calculadora  
+En la consola de RStudio realiza los siguientes cálculos y observa los resultados 4+5  
+
+27-11  
+
+3*9  
+
+23/4  
+
+23%/%4  
+
+23%%4  
+
+2/3+4/7  
+
+sqrt(36)  
+
+sqrt(79)  
+
+sin(pi)  
+
+sin(3.14) 
+
+Ejercicio 2- Más cálculos 
+
+Te propongo que calcules la raíz cuadrada de 144, dividido la raíz cúbica de 27.  (Ayudita: la raíz cúbica hay que crearla con exponenciación)  
+
+Calcular el valor absoluto del resultado de: 356 menos 366, multiplicado por el valor pi.  Redondear el resultado con dos decimales. 
+
+Ejercicio 3- Mi primer Script 
+
+
+En las primeras líneas genera un comentario indicando tu Nombre completo y la fecha. Luego, escribe el código que borra todo lo que se encuentra en el entorno cargado en la  memoria. 
+
+Por último, especifica tu directorio de trabajo. Guarda el Script con el nombre  “Actividad_1.R” 
+
+Escribir las siguientes líneas en el editor de código y ejecutarlas.  
+
+No olvides ir guardando el contenido del script.  
+
+a <- 5  
+
+b <- 4  
+
+c <- a + b
+
+a <- b * c  
+
+b <- (c - a)^2  
+
+c <- a * b  
+
+(Ayuda: puedes copiar y pegar las líneas.) 
+
+Finalmente: ¿Cuánto valen los objetos a, b y c?
+
+
+Ejercicio 4- Trabajando con vectores 
+
+Crea los objetos x e y ejecutando las siguientes líneas de código.  
+
+x <- c(1,3,5,7,9)  
+
+y <- c(2,3,5,7,11,13)  
+
+ii) Suma 1 a cada elemento del vector x  
+
+iii) Suma 1 en cada elemento del vector y 
+
+iv) Al vector y multiplícalo por 3  
+
+v) Suma la cantidad de elementos del vector x e y 
+
+vi) Sumar x+y 
+
+
+
+Ejercicio 5- Operaciones con vectores 
+
+Escribe un vector con los números consecutivos del 1 al 10. 
+
+Escribe un vector de números consecutivos decrecientes a partir del 10. Otra forma de crear vectores es utilizando función “seq(a,b,c)", que genera secuencias de números reales, donde el primer elemento indicara el principio de la secuencia, el segundo el final y el tercero el incremento que se debe usar para generar la secuencia. También podemos poner la función de estas formas: “seq(length = d; from = a; to = b)" o “seq(by = c;  from = a; to = b)" siendo “d" la longitud del vector. 
+
+Te propongo que usando esas funciones crees un vector con la secuencia del 1 al 10 de números impares, y otro vector con una secuencia del 1 al 10 que contenga 6 elementos (usa el argumento length) 
+
+Con la función “rep(a; b)" podemos crear un vector con “b" elementos idénticos al valor “a". Crea un vector que repita 10 veces el elemento 5. 
+
+Repetir cada elemento de un vector 3 veces de en 5. 
+
+Cree el vector llamado meses que contenga los meses del año. Luego llámalo para verlo en la consola 
+
+Obtenga la estructura del vector meses con str(). ¿Qué nos indica? 
+
+Obtenga el modo y la longitud del vector meses 
+
+Ejercicio 6- Más vectores 
+
+Escribe las instrucciones para generar: 
+
+Un objeto llamado x formado por la secuencia de los 5 primeros números pares. Un objeto llamado y con los 10 primeros números naturales en orden decreciente.
+
+Una secuencia del 1 a 15 en 7 pasos 
+
+Un vector de 10 elementos, todo ellos de valor 4. 
+
+Un objeto llamado días que contenga los días de la semana. 
+
+Tras esto, escribe las secuencias para obtener  
+
+la longitud del vector días y  
+
+para seleccionar el elemento de la posición 3 del vector días. 
+
+
+
+Ejercicio 7- Trabajando con listas 
+A continuación, genera una lista con los siguientes elementos: 
+
+$lugar 
+
+[1] "Granja"
+
+$nombre 
+
+[1] "La vaca Lola"
+
+
+$numero.animales 
+
+[1] 6
+
+$animales 
+
+[1] "Gallo" "Gallina" "Conejo" "Caballo" "Perro" "Vaca" 
+
+$cantidad 
+
+[1] 1 8 6 4 2 1
+
+
+Ejercicio 8- Trabajando con dataframe
+Genera un vector denominado edad, de 10 elementos numéricos, con edades al azar entre  0 y 20 años. Nota: Puedes utilizar la función sample() 
+
+Genera un vector denominado sexo, de 10 elementos character, con valores Hombre o  Mujer distribuidos al azar. 
+
+Genera un vector denominado enfermo, de 10 elementos lógicos, con valores verdaderos o  falsos distribuidos al azar 
+
+Construye un dataframe denominado datos, a partir de la unión vertical de los tres vectores  anteriores. 
+
+Asegúrate que queden en la cabecera los mismos nombres de los vectores como nombres  de variables, es decir, el dataframe datos tendrá 10 observaciones y 3 variables (edad, sexo  y enfermo).
+
+
+Ejercicio 9- Construyendo un Data.frame
+
+Se realizó un estudio de investigación en una escuela secundaria de la ciudad de La Plata,  con el fin de averiguar a qué edad comienzan a fumar los adolescentes. Se les preguntó la  edad al momento de la encuesta, la identidad de género, si fumaban o no, a qué edad  comenzaron a fumar y a qué curso pertenecían. El siguiente es un recorte de los datos  obtenidos. 
+
+Construye los siguientes vectores: 
+
+
+Variable 
+
+Datos
+
+ID 
+
+101,105,108,109,116,120,132,148
+
+Edad 
+
+17,16,14,18,12,14,15,17
+
+Genero 
+
+M,H,H,H,M,NA,H,M
+
+Fuma 
+
+T,T,F,F,F,T,F,T
+
+Edad_ini 
+
+16,16,NA,NA,NA,14,NA,15
+
+Curso 
+
+6,5,3,5,1,2,3,5
+
+
+
+Crea un Dataframe con el nombre adolescentes usando los vectores creados en el punto  anterior. 
+
+Muestra en consola los nombres de las variables que integran el dataframe creado. Asigna a un objeto nuevo, denominado adolescentes_dim las dimensiones del objeto  adolescentes. 
+
+Muestra en consola la estructura del dataframe. 
+
+Muestra en consola la cabecera y cola de adolescentes. 
+
+
+Ejercicio 10: - Índices de dataframe 
+
+Utilizando el sistema de índices de los dataframe realiza las siguientes operaciones en el  dataframe creado: adolescentes 
+
+Muestra en consola los datos de las variables Fuma y Edad_ini 
+
+Muestra en consola la filas 1,2,6,7,8 
+
+Asigna a un nuevo objeto, que llamaremos fumadores, todas las observaciones que en la variable fuma tengan cargado un valor T (True) 
+
+Muestra en consola los datos de las primeras tres observaciones para las variables ID, Edad, género y Curso de la tabla de fumadores. 
+
+Elimina la variable ID del dataframe fumadores. 
+
+
+Respuestas 
+
+Encontraras las respuestas en un archivo. R llamado Actividad_1. R
+
