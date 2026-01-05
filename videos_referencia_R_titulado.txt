@@ -1,0 +1,26 @@
+VIDEOS DE REFERENCIA PARA R — FORMATO LEGIBLE
+==============================================
+
+1) **Importación, limpieza y manipulación general en R**
+   https://www.youtube.com/watch?v=fbdmnW4_F0M
+
+2) **Manipulación de datos con dplyr (Tidyverse)**
+   https://www.youtube.com/watch?v=tpAzZOdA4rw
+
+3) **Cómo importar archivos CSV en RStudio**
+   https://www.youtube.com/watch?v=uLcmAT7ODF4
+
+4) **Cómo importar archivos Excel en R**
+   https://www.youtube.com/watch?v=oOP6HS1_Cm4
+
+5) **Exploración e importación básica de datos en R**
+   https://www.youtube.com/watch?v=MgsVmIoPoyQ
+
+6) **Limpieza de texto con R y RStudio**
+   https://www.youtube.com/watch?v=o--1Z59A9Kg
+
+7) **Correlación y causalidad en R**
+   https://www.youtube.com/watch?v=v72QHEjMVIA
+   https://www.youtube.com/watch?v=m-LL6IMi3c0
+   https://www.youtube.com/watch?v=-LRC_P56fIw
+   Rstudio: https://www.youtube.com/watch?v=_uOt4_ArG1Y
